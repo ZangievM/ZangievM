@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marat</h1>
-<h3 align="center">Android developer</h3>
 
-- 🔭 I’m currently working on [Raxel telematics Android SDK](https://www.raxeltelematics.com/)
-
-- 📫 How to reach me **https://t.me/zangievm**
+🔭 Android SDK developer at [Raxel telematics](https://www.raxeltelematics.com/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zangievm&show_icons=true&locale=en&layout=compact" alt="zangievm" /></p>
 
